@@ -1,1 +1,1 @@
-# Big-Data-Analytics
+# Big-Data-Analytics is the process of examining large and complex datasets to uncover hidden patterns, trends, correlations, and insights to support decision-making. It uses advanced tools and techniques like machine learning, statistics, and data mining to analyze data that traditional systems can't handle efficiently.
